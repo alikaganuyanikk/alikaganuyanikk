@@ -1,8 +1,7 @@
-<p align="center">
-  <code>
-   Hi there 👋
-  </code>
-</p>
+
+| Kod |
+|-----|
+| ## Hi there 👋 |
 
 
 
