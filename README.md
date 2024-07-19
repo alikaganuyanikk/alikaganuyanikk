@@ -1,4 +1,10 @@
-## Hi there 👋
+<p align="center">
+  <code>
+    ## Hi there 👋
+  </code>
+</p>
+
+
 
 I'm Ali Kağan from Turkiye.I really enjoy software development and helping people.
 
