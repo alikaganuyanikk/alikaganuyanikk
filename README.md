@@ -1,4 +1,4 @@
-[![MasterHead](https://www.icegif.com/wp-content/uploads/2022/04/icegif-1383.gif)
+
 <p align="center">
   <img src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-1383.gif" alt="MasterHead">
 </p>
