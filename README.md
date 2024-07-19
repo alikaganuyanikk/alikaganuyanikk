@@ -1,6 +1,6 @@
 <p align="center">
   <code>
-    ## Hi there 👋
+   Hi there 👋
   </code>
 </p>
 
