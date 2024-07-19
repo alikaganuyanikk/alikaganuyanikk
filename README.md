@@ -1,4 +1,4 @@
-[![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://www.icegif.com/wp-content/uploads/2022/04/icegif-1383.gif))
+[![MasterHead](https://www.icegif.com/wp-content/uploads/2022/04/icegif-1383.gif)
 
 
 <h1 align="center">Hi 👋, I'm Ali Kağan</h1>
